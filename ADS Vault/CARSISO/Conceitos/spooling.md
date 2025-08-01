@@ -1,0 +1,1 @@
+impressora usa spooling até hoje

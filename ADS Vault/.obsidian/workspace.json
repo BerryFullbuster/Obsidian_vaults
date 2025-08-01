@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "176132867a705186",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ed5c8aceb6eb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092a565a348f1198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CARPROJ/Anotações/2025-08-01 -- CARPROJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-01 -- CARPROJ"
+            }
+          },
+          {
+            "id": "623986ba8f7b704c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CARPROJ/Listas e Provas/Atividades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atividades"
+            }
+          }
+        ]
+      },
+      {
+        "id": "515ef99c08a71bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "924c463090db49e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CARPROJ/Listas e Provas/Projeto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projeto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e9a8f7405b53f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fee985fdea4f180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821d0dec8e7ace70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "6aa77fc2132785f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0c43f2113f0ee846",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11a2e9dbdb91613d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7669cd812ae30e1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbbc1cbdf84c5ef6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CARPRC2/Anotações/2025-07-29 (CARPRC2).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 2025-07-29 (CARPRC2)"
+            }
+          },
+          {
+            "id": "c526e2f92bf8f121",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CARPRC2/Anotações/2025-07-29 (CARPRC2).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 2025-07-29 (CARPRC2)"
+            }
+          },
+          {
+            "id": "79f66a39b4ccb5eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e824635a777c8664",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CARPRC2/Anotações/2025-07-29 (CARPRC2).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 2025-07-29 (CARPRC2)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "821d0dec8e7ace70",
+  "lastOpenFiles": [
+    "CARPROJ/Anexos/CAR_ADS_Contrato Pedagógico.pdf",
+    "CARPROJ/Listas e Provas/Projeto.md",
+    "CARPROJ/Arquitetura e Projeto de Sistemas - CARPROJ.md",
+    "CARPROJ/Listas e Provas/Atividades.md",
+    "CARPROJ/Anotações/2025-08-01 -- CARPROJ.md",
+    "CARSISO/SISTEMAS OPERACIONAIS - CARSISO.md",
+    "CARPROJ/Anexos/0.Apresentação.pdf",
+    "CARPROJ/Anexos/0.Apresentação.pdf",
+    "CARPRC2/Programação De Computadores 2 - CARPRC2.md",
+    "CARPROJ/Listas e Provas",
+    "CARPROJ/Conceitos",
+    "CARPROJ/Anotações",
+    "CARPROJ/Anexos",
+    "CARPROJ",
+    "CARSISO/Anexos/Conceitos fundamentais.pdf",
+    "CARSISO/Anotações/2025-07-31 -- CARSISO.md",
+    "CARSISO/Conceitos/Boot.md",
+    "Banco de Dados (BDD).md",
+    "CARSISO/Conceitos/Drivers.md",
+    "CARSISO/Conceitos/Arquivos não-binarios.md",
+    "CARSISO/Conceitos/Arquivos binarios.md",
+    "CARSISO/Conceitos/Programas de aplicativos.md",
+    "CARSISO/Conceitos/Programas de interação (shell).md",
+    "CARSISO/Conceitos/Programas de sistemas.md",
+    "CARSISO/Conceitos/spooling.md",
+    "CARSISO/Conceitos/Sistemas Operacionais (SO).md",
+    "CARSISO/Conceitos/Sistema Operacional.md",
+    "CARSISO/Conceitos/Programa de controle (kernel).md",
+    "CARSISO/Anexos/Pasted image 20250731210110.png",
+    "CARSISO/Anexos/Pasted image 20250731194848.png",
+    "CARSISO/Listas e Provas",
+    "CARSISO/Conceitos",
+    "CARPRC2/Listas e Provas/Gerenciador Básico de Conta Bancária.md",
+    "CARPRC2/Anotações/2025-07-29 (CARPRC2).md",
+    "CARPRC2/Conceitos/Tipos primitivos.md",
+    "2025-07-29.md",
+    "Projeto Interdisciplinar.md",
+    "CARPRC2/Listas e Provas/Prova 2 - CARPRC2.md",
+    "Sem título.canvas"
+  ]
+}
