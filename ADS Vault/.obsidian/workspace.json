@@ -6,53 +6,39 @@
       {
         "id": "86ed5c8aceb6eb74",
         "type": "tabs",
-        "dimension": 48.09644670050762,
         "children": [
-          {
-            "id": "092a565a348f1198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CARPROJ/Anotações/2025-08-01 -- CARPROJ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-01 -- CARPROJ"
-            }
-          },
           {
             "id": "623986ba8f7b704c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CARPROJ/Listas e Provas/Atividades.md",
+                "file": "CARRDC2/2025-08-04 -- CARRD2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividades"
+              "title": "2025-08-04 -- CARRD2"
             }
           }
         ]
       },
       {
-        "id": "515ef99c08a71bac",
+        "id": "1dcdd253f03074d5",
         "type": "tabs",
-        "dimension": 51.90355329949239,
         "children": [
           {
             "id": "a8c8b3369e71af36",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CARPROJ/Anexos/Aula 01-01-08-2025-Alunos.pdf"
+                "file": "CARRDC2/Redes de Computadores 2 - CARRDC2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Aula 01-01-08-2025-Alunos"
+              "icon": "lucide-file",
+              "title": "Redes de Computadores 2 - CARRDC2"
             }
           }
         ]
@@ -202,17 +188,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "092a565a348f1198",
+  "active": "623986ba8f7b704c",
   "lastOpenFiles": [
-    "Arquiteturais em Sistemas de Software.md",
+    "CARPROJ/Listas e Provas/Atividades.md",
+    "CARRDC2/Redes de Computadores 2 - CARRDC2.md",
+    "CARRDC2/2025-08-04 -- CARRD2.md",
+    "CARRDC2",
     "CARPROJ/Anexos/Aula 01-01-08-2025-Alunos.pdf",
+    "Arquiteturais em Sistemas de Software.md",
     "CARPROJ/Anotações/2025-08-01 -- CARPROJ.md",
     "CARPROJ/Conceitos/Projeto de Sistemas.md",
     "CARPROJ/Arquitetura e Projeto de Sistemas - CARPROJ.md",
     "CARPROJ/Conceitos/Arquitetura de Sistemas.md",
     "CARPROJ/Anexos/CAR_ADS_Contrato Pedagógico.pdf",
     "CARPROJ/Listas e Provas/Projeto.md",
-    "CARPROJ/Listas e Provas/Atividades.md",
     "CARSISO/SISTEMAS OPERACIONAIS - CARSISO.md",
     "CARPROJ/Anexos/0.Apresentação.pdf",
     "CARPROJ/Anexos/0.Apresentação.pdf",
@@ -222,7 +211,6 @@
     "CARPROJ/Anotações",
     "CARPROJ/Anexos",
     "CARPROJ",
-    "CARSISO/Anexos/Conceitos fundamentais.pdf",
     "CARSISO/Anotações/2025-07-31 -- CARSISO.md",
     "CARSISO/Conceitos/Boot.md",
     "Banco de Dados (BDD).md",
@@ -240,7 +228,6 @@
     "CARSISO/Anexos/Pasted image 20250731194848.png",
     "CARPRC2/Listas e Provas/Gerenciador Básico de Conta Bancária.md",
     "CARPRC2/Anotações/2025-07-29 (CARPRC2).md",
-    "CARPRC2/Conceitos/Tipos primitivos.md",
     "Sem título.canvas"
   ]
 }
